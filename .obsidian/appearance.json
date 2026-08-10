@@ -1,9 +1,8 @@
 {
-  "interfaceFontFamily": "FiraMono Nerd Font",
-  "textFontFamily": "Nerd Font",
-  "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "cssTheme": "Blue Topaz",
-  "enabledCssSnippets": [
-    "zoom-video-clean"
-  ]
+  "interfaceFontFamily": "FiraMono Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }

@@ -1,5 +1,14 @@
 {
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": true,
   "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
   "showInlineTitle": false,
+  "spellcheck": true,
   "promptDelete": false
 }

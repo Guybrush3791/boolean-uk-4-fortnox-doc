@@ -1,15 +1,18 @@
 [
-  "nerdfont-icon-picker",
   "open-vscode",
   "editor-width-slider",
   "emoji-shortcodes",
-  "url-into-selection",
+  "code-styler",
+  "excalibrain",
+  "dataview",
   "obsidian-excalidraw-plugin",
-  "custom-font-loader",
-  "terminal",
-  "github-link",
+  "url-into-selection",
   "codeblock-customizer",
-  "zenmode",
+  "terminal",
+  "custom-font-loader",
   "OA-file-hider",
-  "obsidian-git"
+  "github-link",
+  "zenmode",
+  "nerdfont-icon-picker",
+  "automatic-table-of-contents"
 ]
