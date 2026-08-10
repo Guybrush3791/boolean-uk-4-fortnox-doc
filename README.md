@@ -32,7 +32,7 @@ If you have already cloned the repository without its lesson content, populate e
 git submodule update --init --recursive
 ```
 
-## [OPTIONAL] Obsidian plug-ins
+## [OPTIONAL] Obsidian plugins
 
 ![Obsidian Trust Author](Work/Boolean-UK/2026/boolean-uk-3-fortnox-doc/__assets/images/obsidian-trust-author.png)
 
