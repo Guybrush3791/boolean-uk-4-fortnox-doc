@@ -1,0 +1,23 @@
+/* Hide unwanted elements in Zoom iframes */
+iframe[src*="zoom.us"] {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+/* Make video responsive */
+.iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+}
+
+.iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+

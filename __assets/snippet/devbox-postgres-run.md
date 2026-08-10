@@ -1,0 +1,3 @@
+```bash
+devbox services up
+```

@@ -1,0 +1,8 @@
+# Obsidian status
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# Devbox
+.devbox
+devbox.*
+.aider*
