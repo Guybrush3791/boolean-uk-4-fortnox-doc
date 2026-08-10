@@ -4,6 +4,8 @@
 
 This repository is built for [Obsidian.md](https://obsidian.md/). If you do not have it yet, download it through your application manager or from the Obsidian website.
 
+*(that's why images are broken in hire)*
+
 ## Clone repository
 
 ![Obsidian Open Vault](Work/Boolean-UK/2026/boolean-uk-3-fortnox-doc/__assets/images/obsidian-open-vault.png)
