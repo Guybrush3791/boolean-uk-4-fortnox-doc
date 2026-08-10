@@ -10,7 +10,7 @@ This repository is built for [Obsidian.md](https://obsidian.md/). If you do not 
 
 Clone or fork the repository, then open the downloaded folder as a vault in [Obsidian.md](https://obsidian.md/).
 
-### 📓 Download all lesson submodules
+### Download all lesson submodules
 
 Clone the documentation repository and every lesson repository in one command:
 
