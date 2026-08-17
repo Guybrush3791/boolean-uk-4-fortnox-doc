@@ -15,13 +15,7 @@ Clone or fork the repository, then open the downloaded folder as a vault in [Obs
 Clone the documentation repository and every lesson repository in one command:
 
 ```sh
-git clone --recurse-submodules <repository-url>
-```
-
-For example, after this repository has been pushed to GitHub:
-
-```sh
-git clone --recurse-submodules https://github.com/<owner>/boolean-uk-2-fortnox-doc.git
+git clone --recurse-submodules https://github.com/Guybrush3791/boolean-uk-4-fortnox-doc.git
 ```
 
 If you have already cloned the repository without its lesson content, populate every submodule with:
