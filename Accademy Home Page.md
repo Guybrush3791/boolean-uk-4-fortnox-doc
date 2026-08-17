@@ -15,6 +15,13 @@
 **Day of the week** *Monday* to *Friday*
 **Date** from *August 17th* to *September 29th* (final project not included)
 
+## 🔄 Daily Update
+Before starting each day, run this from the root of your cloned academy documentation repository. It downloads the latest course material and updates every submodule used by the course.
+
+```sh
+git pull --recurse-submodules && git submodule update --init --recursive
+```
+
 ## 🧑‍🏫 Lessons
 ### Introduction
 - **Day `00`** Introduction
