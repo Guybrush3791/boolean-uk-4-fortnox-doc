@@ -2,9 +2,9 @@
 
 ## 🧑‍💻 Info
 🏫 [Zoom Classroom](https://us02web.zoom.us/j/83963214296?pwd=6uJAz9XzMCiEiVnFGafdsc3rzEcQuW.1)
-📆 [Calendar](https://discord.com/channels/1536662081657380924/1536662083071123498)
+📆 [Calendar](https://discord.com/channels/1536662081657380924/1536662083071123498) - **Work in Progress**
 ⭐ [Weekly Boolean survey](https://discord.com/channels/1536662081657380924/1536662083071123498)
-**📹 Lesson recordings**
+**📹 Lesson recordings** - **Coming Soon**
 
 ## 📅 Time & Date
 **Time zone** UTC+1
