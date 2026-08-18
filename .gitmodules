@@ -7,3 +7,9 @@
 [submodule "Repository/Day 1/Ex/1 - java fundamentals overview"]
 	path = Repository/Day 1/Ex/1 - java fundamentals overview
 	url = https://github.com/boolean-uk/java-fundamentals-overview.git
+[submodule "Repository/Day 2/Theory/1 - java tdd domain modelling"]
+	path = Repository/Day 2/Theory/1 - java tdd domain modelling
+	url = https://github.com/boolean-uk/java-tdd-domain-modelling.git
+[submodule "Repository/Day 2/Ex/1 - java tdd todo list"]
+	path = Repository/Day 2/Ex/1 - java tdd todo list
+	url = https://github.com/boolean-uk/java-tdd-todo-list.git

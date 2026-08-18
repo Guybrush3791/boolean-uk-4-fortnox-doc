@@ -2,15 +2,15 @@
 
 ## 🧑‍💻 Info
 🏫 [Zoom Classroom](https://us02web.zoom.us/j/83963214296?pwd=6uJAz9XzMCiEiVnFGafdsc3rzEcQuW.1)
-**📆 Calendar**
-**⭐ Weekly Boolean survey**
+📆 [Calendar](https://discord.com/channels/1536662081657380924/1536662083071123498)
+⭐ [Weekly Boolean survey](https://discord.com/channels/1536662081657380924/1536662083071123498)
 **📹 Lesson recordings**
 
 ## 📅 Time & Date
 **Time zone** UTC+1
 
 **Lesson start** 8.30
-**Lesson end** 11.30
+**Lesson end** 12.30
 
 **Day of the week** *Monday* to *Friday*
 **Date** from *August 17th* to *September 29th* (final project not included)
@@ -28,6 +28,7 @@ git pull --recurse-submodules && git submodule update --init --recursive
 
 ### Java Core
 - **Day `01`** [[Intro + Env Setup]]
+- **Day `02`** [[Intro to TDD and Domain Modelling]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository
