@@ -10,7 +10,7 @@
 **Time zone** UTC+1
 
 **Lesson start** 8.30
-**Lesson end** 12.30
+**Lesson end** 11.30
 
 **Day of the week** *Monday* to *Friday*
 **Date** from *August 17th* to *September 29th* (final project not included)
