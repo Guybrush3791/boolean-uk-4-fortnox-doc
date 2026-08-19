@@ -2,13 +2,10 @@
 
 ## LC
 ### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
 [Video link]()
 
 ### Repository
-
+https://github.com/Guybrush3791/java-tdd-domain-modelling.git
 
 **Test-Driven Development (TDD)** is a software development methodology where tests are written before the implementation code. It follows a repeating **Red-Green-Refactor** cycle and reverses the traditional process by starting with test cases that define the desired behaviour of the code.
 

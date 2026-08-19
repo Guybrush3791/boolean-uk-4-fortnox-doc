@@ -19,7 +19,7 @@
 Before starting each day, run this from the root of your cloned academy documentation repository. It downloads the latest course material and updates every submodule used by the course.
 
 ```sh
-git pull --recurse-submodules && git submodule update --init --recursive
+git stash && git pull --recurse-submodules && git submodule update --init --recursive
 ```
 
 ## 🧑‍🏫 Lessons

@@ -2,13 +2,8 @@
 
 ## LC
 ### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
 
-[Video link]()
-
-### Repository
-
+[Video link](https://boolean-montessori.s3.eu-central-1.amazonaws.com/recording-lessons/experis-sweden-java-2/28434_2026-08-18T06%3A52%3A12Z.MP4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARF7NFRWH22FOD5TC%2F20260819%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260819T072931Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=6ad9ab607e6b804ec9df1d48bd74329cd760c5f8df21fc748cf5e5daf2a1ba54)
 
 Welcome to the *Boolean UK / Fortnox Java Full-Stack Academy 2026*. This first day is a **soft start**: no code to submit, no graded work. The goal is to make sure your machine is ready, your accounts are wired up, and you know how a Java project is built and run, so from *Day 02* onwards you can focus on the actual programming.
 

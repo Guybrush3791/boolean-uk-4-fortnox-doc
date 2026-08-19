@@ -4,5 +4,6 @@
   "textFontFamily": "FiraCode Nerd Font",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "showViewHeader": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 22
 }
