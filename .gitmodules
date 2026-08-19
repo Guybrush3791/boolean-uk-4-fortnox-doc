@@ -13,3 +13,12 @@
 [submodule "Repository/Day 2/Ex/1 - java tdd todo list"]
 	path = Repository/Day 2/Ex/1 - java tdd todo list
 	url = https://github.com/boolean-uk/java-tdd-todo-list.git
+[submodule "Repository/Day 3/Theory/1 - java tdd oop encapsulation"]
+	path = Repository/Day 3/Theory/1 - java tdd oop encapsulation
+	url = https://github.com/boolean-uk/java-tdd-oop-encapsulation.git
+[submodule "Repository/Day 3/Theory/2 - java tdd oop abstraction"]
+	path = Repository/Day 3/Theory/2 - java tdd oop abstraction
+	url = https://github.com/boolean-uk/java-tdd-oop-abstraction.git
+[submodule "Repository/Day 3/Ex/1 - java tdd oop bobs bagels"]
+	path = Repository/Day 3/Ex/1 - java tdd oop bobs bagels
+	url = https://github.com/boolean-uk/java-tdd-oop-bobs-bagels.git
