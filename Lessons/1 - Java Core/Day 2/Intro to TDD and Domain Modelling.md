@@ -1,9 +1,6 @@
 # Intro to TDD and Domain Modelling
 
 ## LC
-### Video
-[Video link]()
-
 ### Repository
 https://github.com/Guybrush3791/java-tdd-domain-modelling.git
 

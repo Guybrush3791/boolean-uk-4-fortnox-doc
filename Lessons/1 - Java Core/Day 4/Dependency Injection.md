@@ -23,15 +23,8 @@ By the end of this lesson, you can:
 - choose an implementation outside the class that uses it.
 
 ## LC
-
-### Video
-
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
-[Video link]()
-
 ### Repository
+https://github.com/WOWS-Inc/java-dependency-injection-live-coding.git
 
 ## Lesson
 
