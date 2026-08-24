@@ -34,3 +34,6 @@
 [submodule "Repository/Day 4/Theory/2 - java tdd oop interface dependency injection"]
 	path = Repository/Day 4/Theory/2 - java tdd oop interface dependency injection
 	url = https://github.com/boolean-uk/java-tdd-oop-interface-dependency-injection
+[submodule "Repository/Day 4/LC/java-dependency-injection-live-coding"]
+	path = Repository/Day 4/LC/java-dependency-injection-live-coding
+	url = git@github.com:WOWS-Inc/java-dependency-injection-live-coding.git
