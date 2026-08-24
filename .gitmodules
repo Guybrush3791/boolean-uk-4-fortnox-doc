@@ -28,3 +28,9 @@
 [submodule "Repository/Day 5/Theory/2 - Inheritance"]
 	path = Repository/Day 5/Theory/2 - Inheritance
 	url = https://github.com/boolean-uk/java-tdd-oop-inheritance.git
+[submodule "Repository/Day 4/Theory/1 - java tdd oop concrete dependency injection"]
+	path = Repository/Day 4/Theory/1 - java tdd oop concrete dependency injection
+	url = https://github.com/boolean-uk/java-tdd-oop-concrete-dependency-injection
+[submodule "Repository/Day 4/Theory/2 - java tdd oop interface dependency injection"]
+	path = Repository/Day 4/Theory/2 - java tdd oop interface dependency injection
+	url = https://github.com/boolean-uk/java-tdd-oop-interface-dependency-injection

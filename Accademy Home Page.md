@@ -30,6 +30,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `01`** [[Intro + Env Setup]]
 - **Day `02`** [[Intro to TDD and Domain Modelling]]
 - **Day `03`** [[Encapsulation & Abstraction]]
+- **Day `04`** [[Dependency Injection]]
 - **Day `05`** [[Polymorphism & Inheritance]]
 
 ## 🔗 Additional link
