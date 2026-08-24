@@ -22,3 +22,9 @@
 [submodule "Repository/Day 3/Ex/1 - java tdd oop bobs bagels"]
 	path = Repository/Day 3/Ex/1 - java tdd oop bobs bagels
 	url = https://github.com/boolean-uk/java-tdd-oop-bobs-bagels.git
+[submodule "Repository/Day 5/Theory/1 - Polymorphism"]
+	path = Repository/Day 5/Theory/1 - Polymorphism
+	url = https://github.com/boolean-uk/java-tdd-oop-polymorphism.git
+[submodule "Repository/Day 5/Theory/2 - Inheritance"]
+	path = Repository/Day 5/Theory/2 - Inheritance
+	url = https://github.com/boolean-uk/java-tdd-oop-inheritance.git
