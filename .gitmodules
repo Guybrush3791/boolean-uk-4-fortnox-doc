@@ -37,3 +37,6 @@
 [submodule "Repository/Day 4/LC/java-dependency-injection-live-coding"]
 	path = Repository/Day 4/LC/java-dependency-injection-live-coding
 	url = git@github.com:WOWS-Inc/java-dependency-injection-live-coding.git
+[submodule "Repository/Day 5/LC/java-polymorphism-inheritance"]
+	path = Repository/Day 5/LC/java-polymorphism-inheritance
+	url = git@github.com:WOWS-Inc/java-polymorphism-inheritance.git

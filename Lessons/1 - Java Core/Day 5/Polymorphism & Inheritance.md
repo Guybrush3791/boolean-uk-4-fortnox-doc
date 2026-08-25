@@ -1,14 +1,8 @@
 # Polymorphism & Inheritance
 
 ## LC
-### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
-[Video link]()
-
 ### Repository
-
+https://github.com/WOWS-Inc/java-polymorphism-inheritance.git
 
 ## Polymorphism
 **Polymorphism** means "many forms" and allows objects from different classes to be treated through a common type. A single interface can therefore represent several underlying forms.
