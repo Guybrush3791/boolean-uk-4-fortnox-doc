@@ -27,7 +27,10 @@ Create an empty folder for this setup and save the following file inside it as `
     // Java 21 (Eclipse Temurin)
     "temurin-bin@21",
     // Spring Boot CLI
-    "spring-boot-cli"
+    "spring-boot-cli",
+    // Clients
+    "curl",
+    "postman"
   ],
 
   "env": {
