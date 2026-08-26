@@ -14,6 +14,10 @@
 
 **Spring Boot** is an open-source Java framework that simplifies and accelerates the development of standalone, production-grade Spring applications. As an extension of the Spring Framework, it removes much of the complex configuration traditionally required.
 
+## Pre-requisite
+
+[[SpringBoot Installation|Create a Spring Boot project from the CLI]]
+
 ## Lesson
 [[Repository/Day 7/Theory/1 - Spring Boot, Controllers, Annotations/README|Java API Counter Workshop]]
 https://github.com/boolean-uk/java-api-counter-workshop.git
