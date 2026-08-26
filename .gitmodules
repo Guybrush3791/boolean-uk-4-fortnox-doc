@@ -43,3 +43,9 @@
 [submodule "Repository/Day 6/Ex/1 - Bank Challenge"]
 	path = Repository/Day 6/Ex/1 - Bank Challenge
 	url = https://github.com/boolean-uk/java-tdd-oop-bank-challenge.git
+[submodule "Repository/Day 7/Theory/1 - Spring Boot, Controllers, Annotations"]
+	path = Repository/Day 7/Theory/1 - Spring Boot, Controllers, Annotations
+	url = https://github.com/boolean-uk/java-api-counter-workshop.git
+[submodule "Repository/Day 7/Ex/1 - Java API Counter"]
+	path = Repository/Day 7/Ex/1 - Java API Counter
+	url = https://github.com/boolean-uk/java-api-counter.git
