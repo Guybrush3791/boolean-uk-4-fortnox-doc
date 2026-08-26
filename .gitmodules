@@ -40,3 +40,6 @@
 [submodule "Repository/Day 5/LC/java-polymorphism-inheritance"]
 	path = Repository/Day 5/LC/java-polymorphism-inheritance
 	url = git@github.com:WOWS-Inc/java-polymorphism-inheritance.git
+[submodule "Repository/Day 6/Ex/1 - Bank Challenge"]
+	path = Repository/Day 6/Ex/1 - Bank Challenge
+	url = https://github.com/boolean-uk/java-tdd-oop-bank-challenge.git

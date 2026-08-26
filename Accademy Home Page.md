@@ -33,6 +33,9 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `04`** [[Dependency Injection]]
 - **Day `05`** [[Polymorphism & Inheritance]]
 
+---
+- **Day `06`** [[Lessons/1 - Java Core/Day 6/Challenge Day|Challenge Day - 1]]
+
 ## 🔗 Additional link
 You can find this documentation at the following repository
 https://github.com/Guybrush3791/boolean-uk-4-fortnox-doc.git
