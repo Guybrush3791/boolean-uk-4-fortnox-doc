@@ -69,32 +69,31 @@ spring init \
     --type=gradle-project \
     --language=java \
     --boot-version=4.1.1 \
-    --group-id=dev.wows.buk \ # [!note] Group ID
-    --artifact-id=SpringDemo1 \ # [!note] Artifact
-    --name=SpringDemo1 \ # [!note] Project Name
-    --package-name=dev.wows.buk.SpringDemo1 \ # [!note] Package Name
+    --group-id=dev.wows.buk \
+    --artifact-id=SpringDemo1 \
+    --name=SpringDemo1 \
+    --package-name=dev.wows.buk.SpringDemo1 \
     --java-version=21 \
-    --dependencies=web,devtools \ # [!note] Dependencies (where most changes will take place)
+    --dependencies=web,devtools \
     --extract \
     SpringDemo1
 ```
 
 The options describe the project that Spring Initializr will create:
 
-| Option | Purpose |
-| --- | --- |
-| `--type=gradle-project` | Creates a project built with Gradle. |
-| `--language=java` | Selects Java as the source language. |
-| `--boot-version=4.1.1` | Selects Spring Boot 4.1.1. |
-| `--group-id=dev.wows.buk` | Sets the Group ID used to identify the project. |
-| `--artifact-id=SpringDemo1` | Sets the project artifact name. |
-| `--name=SpringDemo1` | Sets the project name. |
-| `--package-name=dev.wows.buk.SpringDemo1` | Sets the main Java package. |
-| `--packaging=war` | Configures the build to produce a WAR package. |
-| `--java-version=21` | Configures the project to use Java 21. |
-| `--dependencies=web,devtools` | Adds Spring Web and Spring Boot DevTools. |
-| `--extract` | Extracts the generated archive immediately. |
-| `SpringDemo1` | Names the folder in which the project is created. |
+| Option                                    | Purpose                                           |
+| ----------------------------------------- | ------------------------------------------------- |
+| `--type=gradle-project`                   | Creates a project built with Gradle.              |
+| `--language=java`                         | Selects Java as the source language.              |
+| `--boot-version=4.1.1`                    | Selects Spring Boot 4.1.1.                        |
+| `--group-id=dev.wows.buk`                 | Sets the Group ID used to identify the project.   |
+| `--artifact-id=SpringDemo1`               | Sets the project artifact name.                   |
+| `--name=SpringDemo1`                      | Sets the project name.                            |
+| `--package-name=dev.wows.buk.SpringDemo1` | Sets the main Java package.                       |
+| `--java-version=21`                       | Configures the project to use Java 21.            |
+| `--dependencies=web,devtools`             | Adds Spring Web and Spring Boot DevTools.         |
+| `--extract`                               | Extracts the generated archive immediately.       |
+| `SpringDemo1`                             | Names the folder in which the project is created. |
 
 The generated project includes the Gradle Wrapper, so Gradle does not need to be installed separately.
 
