@@ -49,3 +49,6 @@
 [submodule "Repository/Day 7/Ex/1 - Java API Counter"]
 	path = Repository/Day 7/Ex/1 - Java API Counter
 	url = https://github.com/boolean-uk/java-api-counter.git
+[submodule "Repository/Day 7/LC/java-spring-boot-intro"]
+	path = Repository/Day 7/LC/java-spring-boot-intro
+	url = git@github.com:WOWS-Inc/java-spring-boot-intro.git

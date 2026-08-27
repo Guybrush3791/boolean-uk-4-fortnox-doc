@@ -1,14 +1,8 @@
 # Spring Boot, Controllers, Annotations
 
 ## LC
-### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
-[Video link]()
-
 ### Repository
-
+https://github.com/WOWS-Inc/java-spring-boot-intro.git
 
 ![[springboot-logo.png|600]]
 
