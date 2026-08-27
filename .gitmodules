@@ -52,3 +52,9 @@
 [submodule "Repository/Day 7/LC/java-spring-boot-intro"]
 	path = Repository/Day 7/LC/java-spring-boot-intro
 	url = git@github.com:WOWS-Inc/java-spring-boot-intro.git
+[submodule "Repository/Day 8/Theory/1 - Java Requests and Responses"]
+	path = Repository/Day 8/Theory/1 - Java Requests and Responses
+	url = https://github.com/boolean-uk/java-api-requests-responses-workshop.git
+[submodule "Repository/Day 8/Ex/1 - Java API Requests & Responses"]
+	path = Repository/Day 8/Ex/1 - Java API Requests & Responses
+	url = https://github.com/boolean-uk/java-api-requests-responses.git

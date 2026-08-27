@@ -38,6 +38,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 
 ### Java Back-end
 - **Day `07`** [[Spring Boot, Controllers, Annotations]]
+- **Day `08`** [[REST, OpenAPI Specs, Request & Response payloads]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository
