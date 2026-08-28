@@ -58,3 +58,6 @@
 [submodule "Repository/Day 8/Ex/1 - Java API Requests & Responses"]
 	path = Repository/Day 8/Ex/1 - Java API Requests & Responses
 	url = https://github.com/boolean-uk/java-api-requests-responses.git
+[submodule "Repository/Day 8/LC/java-restful-openapi"]
+	path = Repository/Day 8/LC/java-restful-openapi
+	url = https://github.com/WOWS-Inc/java-restful-openapi.git
