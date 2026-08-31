@@ -8,7 +8,7 @@ https://github.com/WOWS-Inc/java-spring-boot-intro.git
 
 **Spring Boot** is an open-source Java framework that simplifies and accelerates the development of standalone, production-grade Spring applications. As an extension of the Spring Framework, it removes much of the complex configuration traditionally required.
 
-## Pre-requisite
+## Pre-require
 
 [[SpringBoot Installation|Create a Spring Boot project from the CLI]]
 

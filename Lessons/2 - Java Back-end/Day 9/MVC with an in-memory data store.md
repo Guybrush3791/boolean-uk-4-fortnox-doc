@@ -1,14 +1,8 @@
 # MVC with an in-memory data store
 
 ## LC
-### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
-[Video link]()
-
 ### Repository
-
+https://github.com/WOWS-Inc/java-mvc-intro.git
 
 **Model-View-Controller (MVC)** is a software design pattern that separates an application into three interconnected components.
 
