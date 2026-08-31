@@ -61,3 +61,9 @@
 [submodule "Repository/Day 8/LC/java-restful-openapi"]
 	path = Repository/Day 8/LC/java-restful-openapi
 	url = https://github.com/WOWS-Inc/java-restful-openapi.git
+[submodule "Repository/Day 9/Theory/1 - Java API - MVC - In Memory"]
+	path = Repository/Day 9/Theory/1 - Java API - MVC - In Memory
+	url = git@github.com:WOWS-Inc/java-api-mvc-in-memory-workshop.git
+[submodule "Repository/Day 9/Ex/1 - Java API - MVC - In Memory"]
+	path = Repository/Day 9/Ex/1 - Java API - MVC - In Memory
+	url = https://github.com/boolean-uk/java-api-mvc-in-memory.git
