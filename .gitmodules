@@ -67,3 +67,9 @@
 [submodule "Repository/Day 9/Ex/1 - Java API - MVC - In Memory"]
 	path = Repository/Day 9/Ex/1 - Java API - MVC - In Memory
 	url = https://github.com/boolean-uk/java-api-mvc-in-memory.git
+[submodule "Repository/Day 10/Ex/1 - Data Modelling"]
+	path = Repository/Day 10/Ex/1 - Data Modelling
+	url = https://github.com/boolean-uk/java-data-modelling.git
+[submodule "Repository/Day 10/Ex/2 - Api SQL Intro"]
+	path = Repository/Day 10/Ex/2 - Api SQL Intro
+	url = https://github.com/boolean-uk/api-sql-intro.git
