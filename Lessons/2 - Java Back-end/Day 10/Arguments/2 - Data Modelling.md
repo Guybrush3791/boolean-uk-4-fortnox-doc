@@ -51,13 +51,6 @@ This is a production-ready blueprint of tables, primary keys and foreign keys th
 ## Creating an Entity Relationship Model
 ER diagrams formally map entities and the relationships between them. Tools such as [draw.io](https://app.diagrams.net/) make it easy to build these visual models before implementation.
 
-## Practice
-Try designing ER models for real-world systems such as:
-
-- Twitter
-- Amazon
-- GitHub
-
 ---
 
 # Links
