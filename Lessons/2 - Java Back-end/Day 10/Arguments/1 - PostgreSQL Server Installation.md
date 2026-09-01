@@ -42,7 +42,7 @@ Use the complete updated configuration below. Focus on the database-specific add
     "postman",
 
     // OpenAPI
-    "redocly-cli",
+    "redocly",
 
     // database
     "postgresql@17",
@@ -79,7 +79,6 @@ Devbox already provides the `postgresql` service when PostgreSQL is installed. T
 
 ```yaml file:process-compose.yaml
 version: "0.5"
-
 processes:
   createdb:
     command: "createdb $DB_NAME || true"

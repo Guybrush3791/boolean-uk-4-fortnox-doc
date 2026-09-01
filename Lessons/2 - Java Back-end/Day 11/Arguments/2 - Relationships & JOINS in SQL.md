@@ -32,7 +32,6 @@ CREATE TABLE authors (
   id SERIAL PRIMARY KEY,
   name VARCHAR(50) NOT NULL
 );
-
 -- Posts (N side of 1:N)
 CREATE TABLE posts (
   id SERIAL PRIMARY KEY,
@@ -41,13 +40,11 @@ CREATE TABLE posts (
   body TEXT NOT NULL,
   created_at TIMESTAMP DEFAULT NOW()
 );
-
 -- Tags
 CREATE TABLE tags (
   id SERIAL PRIMARY KEY,
   name VARCHAR(30) UNIQUE NOT NULL
 );
-
 -- Junction table post_tags (N:M)
 CREATE TABLE post_tags (
   post_id SERIAL NOT NULL REFERENCES posts(id),
@@ -59,16 +56,17 @@ CREATE TABLE post_tags (
 ## 3. Inserting Sample Data
 
 ```sql
+-- Insert authors
 INSERT INTO authors (name) VALUES ('Alice'), ('Bob');
-
+-- Insert posts
 INSERT INTO posts (author_id, title, body)
 VALUES
   (1, 'Intro to SQL', '...'),
   (1, 'Advanced JOINS', '...'),
   (2, 'JSON vs Relational', '...');
-
+-- Insert tags
 INSERT INTO tags (name) VALUES ('sql'), ('joins'), ('database');
-
+-- Insert post-tag relation
 INSERT INTO post_tags (post_id, tag_id)
 VALUES
   (1, 1), (2, 1), (2, 2), (3, 1), (3, 3);
