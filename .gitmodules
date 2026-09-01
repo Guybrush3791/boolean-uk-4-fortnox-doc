@@ -73,3 +73,9 @@
 [submodule "Repository/Day 10/Ex/2 - Api SQL Intro"]
 	path = Repository/Day 10/Ex/2 - Api SQL Intro
 	url = https://github.com/boolean-uk/api-sql-intro.git
+[submodule "Repository/Day 11/Ex/1 - SQL Relations & Joins"]
+	path = Repository/Day 11/Ex/1 - SQL Relations & Joins
+	url = https://github.com/boolean-uk/java-apis-sql-relations-and-joins.git
+[submodule "Repository/Day 11/Ex/2 - Migrations"]
+	path = Repository/Day 11/Ex/2 - Migrations
+	url = https://github.com/boolean-uk/java-api-migrations.git

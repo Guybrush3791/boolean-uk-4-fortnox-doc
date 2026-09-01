@@ -41,6 +41,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `08`** [[REST, OpenAPI Specs, Request & Response payloads]]
 - **Day `09`** [[MVC with an in-memory data store]]
 - **Day `10`** [[Data modeling and introduction to SQL]]
+- **Day `11`** [[Relationships, joins and migrations]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository
