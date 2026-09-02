@@ -10,7 +10,6 @@ https://github.com/WOWS-Inc/java-flyway-migration.git
 
 ## Lesson
 [[2 - Relationships & JOINS in SQL|Relationships & JOINS in SQL]]
-
 [[3 - Java Migrations Workshop|Java Migrations Workshop]]
 
 ## Exercise
