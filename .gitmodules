@@ -79,3 +79,6 @@
 [submodule "Repository/Day 11/Ex/2 - Migrations"]
 	path = Repository/Day 11/Ex/2 - Migrations
 	url = https://github.com/boolean-uk/java-api-migrations.git
+[submodule "Repository/Day 12/Ex/1 - MVC with Postgres"]
+	path = Repository/Day 12/Ex/1 - MVC with Postgres
+	url = https://github.com/boolean-uk/java-api-mvc-with-postgres.git
