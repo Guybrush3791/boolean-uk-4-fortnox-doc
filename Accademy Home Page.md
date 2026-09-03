@@ -43,6 +43,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `10`** [[Data modeling and introduction to SQL]]
 - **Day `11`** [[Relationships, joins and migrations]]
 - **Day `12`** [[MVC with Postgres]]
+- **Day `13`** [[Spring JPA and repositories - part 1]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository
