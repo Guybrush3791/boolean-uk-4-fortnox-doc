@@ -1,14 +1,8 @@
 # MVC with Postgres
 
 ## LC
-### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
-[Video link]()
-
 ### Repository
-
+https://github.com/WOWS-Inc/java-postgres-intro.git
 
 The in-memory MVC application could route requests correctly, but its data disappeared whenever the Java process stopped. Today we keep the same controller, service, repository and model responsibilities while replacing the collection with a local PostgreSQL database.
 
