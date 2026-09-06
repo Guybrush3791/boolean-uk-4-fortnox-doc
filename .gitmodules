@@ -85,3 +85,7 @@
 [submodule "Repository/Day 13/Ex/1 - JPA and Repository - Part 1"]
 	path = Repository/Day 13/Ex/1 - JPA and Repository - Part 1
 	url = https://github.com/boolean-uk/java-api-jpa-hibernate.git
+[submodule "Repository/Day 14/Ex/1 - JPA and Repository - Part 2"]
+	path = Repository/Day 14/Ex/1 - JPA and Repository - Part 2
+	url = https://github.com/boolean-uk/java-api-jpa-hibernate-part2.git
+	branch = main
