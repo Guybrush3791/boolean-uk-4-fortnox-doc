@@ -36,10 +36,10 @@
 	url = https://github.com/boolean-uk/java-tdd-oop-interface-dependency-injection
 [submodule "Repository/Day 4/LC/java-dependency-injection-live-coding"]
 	path = Repository/Day 4/LC/java-dependency-injection-live-coding
-	url = git@github.com:WOWS-Inc/java-dependency-injection-live-coding.git
+	url = https://github.com/WOWS-Inc/java-dependency-injection-live-coding.git
 [submodule "Repository/Day 5/LC/java-polymorphism-inheritance"]
 	path = Repository/Day 5/LC/java-polymorphism-inheritance
-	url = git@github.com:WOWS-Inc/java-polymorphism-inheritance.git
+	url = https://github.com/WOWS-Inc/java-polymorphism-inheritance.git
 [submodule "Repository/Day 6/Ex/1 - Bank Challenge"]
 	path = Repository/Day 6/Ex/1 - Bank Challenge
 	url = https://github.com/boolean-uk/java-tdd-oop-bank-challenge.git
@@ -51,7 +51,7 @@
 	url = https://github.com/boolean-uk/java-api-counter.git
 [submodule "Repository/Day 7/LC/java-spring-boot-intro"]
 	path = Repository/Day 7/LC/java-spring-boot-intro
-	url = git@github.com:WOWS-Inc/java-spring-boot-intro.git
+	url = https://github.com/WOWS-Inc/java-spring-boot-intro.git
 [submodule "Repository/Day 8/Theory/1 - Java Requests and Responses"]
 	path = Repository/Day 8/Theory/1 - Java Requests and Responses
 	url = https://github.com/boolean-uk/java-api-requests-responses-workshop.git
@@ -63,7 +63,7 @@
 	url = https://github.com/WOWS-Inc/java-restful-openapi.git
 [submodule "Repository/Day 9/Theory/1 - Java API - MVC - In Memory"]
 	path = Repository/Day 9/Theory/1 - Java API - MVC - In Memory
-	url = git@github.com:WOWS-Inc/java-api-mvc-in-memory-workshop.git
+	url = https://github.com/WOWS-Inc/java-api-mvc-in-memory-workshop.git
 [submodule "Repository/Day 9/Ex/1 - Java API - MVC - In Memory"]
 	path = Repository/Day 9/Ex/1 - Java API - MVC - In Memory
 	url = https://github.com/boolean-uk/java-api-mvc-in-memory.git
