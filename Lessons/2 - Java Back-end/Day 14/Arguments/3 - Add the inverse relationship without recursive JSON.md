@@ -58,7 +58,7 @@ On `Employee.department`, ignore the department's `employees` property when the 
 ```java file:Employee.java
 @ManyToOne
 @JoinColumn(name = "department_id", nullable = false)
-@JsonIgnoreProperties("employees", allowSetters = true)
+@JsonIgnoreProperties(value = "employees", allowSetters = true)
 @ToString.Exclude
 private Department department;
 ```

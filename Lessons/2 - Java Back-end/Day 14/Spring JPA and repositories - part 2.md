@@ -1,15 +1,7 @@
 # Spring JPA and repositories - part 2
 
 ## LC
-### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
-[Video link]()
-
 ### Repository
-
-
 Day 13 mapped one `Employee` entity with Spring Data JPA. Today we start from the [Day 13 live repository](https://github.com/WOWS-Inc/java-jpa-hibernate-lombok.git), add departments and preserve the `model`, `repo`, `service` and `controller` responsibilities.
 
 > [!important] Prerequisite
