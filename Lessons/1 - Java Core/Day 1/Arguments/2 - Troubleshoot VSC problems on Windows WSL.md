@@ -89,3 +89,7 @@ This problem happens because, as standard, VSC is installed on windows' own file
 ![alt text](image-9.png)
 
 This means that everything we do on WSLs file system does not have the correct context of what is done in `C:`. every time we install a new program like firefox, VSC, IntelliJ, Docker, Teams etc. WSL does not know. If you have ever had a machine that Dual Boots Windows and Linux with GRUB, this is probably easier to understand. WSL is not quite like DualBooting as that would be like having two separate OS partitions on your harddrive that has to be loaded in at boot. WSL instead operates on the Windows layer as a subsystem (hence the name, Windows Subsystems for Linux). This is also why our settings and extensions will be gone on VSC, because we have pretty much loaded windows at a location on our computer that it has not loaded in before.
+
+# Author
+Thanks to *Kemal Cikota* for the help, github account:
+https://github.com/Kemalcikota113/java-tdd-oop-bank-challenge
