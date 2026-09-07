@@ -89,3 +89,7 @@
 	path = Repository/Day 14/Ex/java-api-jpa-hibernate-part2
 	url = https://github.com/boolean-uk/java-api-jpa-hibernate-part2.git
 	branch = main
+[submodule "Repository/Day 15/Ex/1 - SSO Protected Resource"]
+	path = Repository/Day 15/Ex/1 - SSO Protected Resource
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-springboot-sso-protected-res.git
+	branch = main
