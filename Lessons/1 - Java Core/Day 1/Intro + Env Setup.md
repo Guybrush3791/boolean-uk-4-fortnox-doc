@@ -15,6 +15,7 @@ The `Lessons` folder contains the lesson pages and supporting explanations, whil
 https://github.com/boolean-uk/developer-environment-setup
 
 [[1 - Jetify DevBox Installation|Jetify DevBox Installation]]
+[[2 - Troubleshoot VSC problems on Windows WSL|Troubleshoot VSC problems on Windows WSL]]
 
 [[Repository/Day 1/Theory/2 - java fundamentals day 1 workshop/README|Java Fundamentals - Day 1 - Workshop]]
 https://github.com/boolean-uk/java-fundamentals-day-1-workshop
