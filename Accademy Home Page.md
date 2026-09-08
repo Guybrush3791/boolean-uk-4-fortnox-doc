@@ -46,7 +46,8 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `13`** [[Spring JPA and repositories - part 1]]
 - **Day `14`** [[Spring JPA and repositories - part 2]]
 - **Day `15`** [[Spring security and SSO]]
-
+---
+- Day `16` [[Challenge Day 2|Challenge Day - 2]]
 ## 🔗 Additional link
 You can find this documentation at the following repository
 https://github.com/Guybrush3791/boolean-uk-4-fortnox-doc.git

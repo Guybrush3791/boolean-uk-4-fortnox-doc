@@ -12,7 +12,7 @@ This lesson uses a project-local Devbox environment to provide Java 21, the Spri
 
 Use this complete `devbox.json` in the folder that will contain `JavaOidc`:
 
-```jsonc file:devbox.json
+```json file:devbox.json
 {
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
   "name": "java-devbox-test1",

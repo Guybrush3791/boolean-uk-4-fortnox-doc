@@ -93,3 +93,7 @@
 	path = Repository/Day 15/Ex/1 - SSO Protected Resource
 	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-springboot-sso-protected-res.git
 	branch = main
+[submodule "Repository/Day 16/Challenge-2"]
+	path = Repository/Day 16/Challenge-2
+	url = https://github.com/WOWS-Inc/boolean-uk-4-fortnox-springboot-sso-challenge-day.git
+	branch = main
