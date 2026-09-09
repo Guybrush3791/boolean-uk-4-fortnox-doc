@@ -48,6 +48,11 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `15`** [[Spring security and SSO]]
 ---
 - Day `16` [[Challenge Day 2|Challenge Day - 2]]
+
+### DevOps
+
+- **Day `17`** [[CI-CD with a Java application]]
+
 ## 🔗 Additional link
 You can find this documentation at the following repository
 https://github.com/Guybrush3791/boolean-uk-4-fortnox-doc.git
