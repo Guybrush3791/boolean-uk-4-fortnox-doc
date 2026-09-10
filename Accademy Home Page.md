@@ -52,6 +52,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 ### DevOps
 
 - **Day `17`** [[CI-CD with a Java application]]
+- **Day `18`** [[Event Stream in Kafka - part 1]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository
