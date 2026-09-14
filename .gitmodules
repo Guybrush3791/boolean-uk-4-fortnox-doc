@@ -97,3 +97,11 @@
 	path = Repository/Day 16/Challenge-2
 	url = https://github.com/WOWS-Inc/boolean-uk-4-fortnox-springboot-sso-challenge-day.git
 	branch = main
+[submodule "Repository/Day 20/Theory/1 - JS variables"]
+	path = Repository/Day 20/Theory/1 - JS variables
+	url = https://github.com/boolean-uk/js-fundamentals-variables.git
+	branch = main
+[submodule "Repository/Day 20/Ex/1 - JS primitive datatype"]
+	path = Repository/Day 20/Ex/1 - JS primitive datatype
+	url = https://github.com/boolean-uk/js-fundamentals-primitive-data-types.git
+	branch = main
