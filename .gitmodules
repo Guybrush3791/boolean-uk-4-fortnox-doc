@@ -105,3 +105,9 @@
 	path = Repository/Day 20/Ex/1 - JS primitive datatype
 	url = https://github.com/boolean-uk/js-fundamentals-primitive-data-types.git
 	branch = main
+[submodule "Repository/Day 21/Theory/1 - JS & Bootstrap Intro"]
+	path = Repository/Day 21/Theory/1 - JS & Bootstrap Intro
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-js-bootstrap-intro.git
+[submodule "Repository/Day 21/Ex/1 - JS & Bootstrap Ex"]
+	path = Repository/Day 21/Ex/1 - JS & Bootstrap Ex
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-js-bootstrap-exercise.git
