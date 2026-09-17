@@ -58,6 +58,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 ### Front-end
 - **Day `20`** [[HTML, CSS, intro to javascript]]
 - **Day `21`** [[Bootstrap and DOM manipulation]]
+- **Day `22`** [[Figma and UI development]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository

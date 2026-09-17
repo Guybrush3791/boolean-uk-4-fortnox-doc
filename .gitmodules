@@ -111,3 +111,7 @@
 [submodule "Repository/Day 21/Ex/1 - JS & Bootstrap Ex"]
 	path = Repository/Day 21/Ex/1 - JS & Bootstrap Ex
 	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-js-bootstrap-exercise.git
+[submodule "Repository/Day 22/Ex/1 - Figma Design"]
+	path = Repository/Day 22/Ex/1 - Figma Design
+	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-figma-design.git
+	branch = main
