@@ -115,3 +115,7 @@
 	path = Repository/Day 22/Ex/1 - Figma Design
 	url = https://github.com/Guybrush3791/boolean-uk-1-fortnox-figma-design.git
 	branch = main
+[submodule "Repository/Day 23/Ex/1 - JS DOM Green Grocers"]
+	path = Repository/Day 23/Ex/1 - JS DOM Green Grocers
+	url = https://github.com/boolean-uk/js-dom-greengrocers.git
+	branch = main
