@@ -123,3 +123,7 @@
 	path = Repository/Day 24/Ex/1 - React Twitter Props
 	url = https://github.com/boolean-uk/react-twitter-props.git
 	branch = main
+[submodule "Repository/Day 24/Theory/1 - React Immutable State"]
+	path = Repository/Day 24/Theory/1 - React Immutable State
+	url = https://github.com/boolean-uk/react-immutable-state.git
+	branch = main
