@@ -60,6 +60,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `21`** [[Bootstrap and DOM manipulation]]
 - **Day `22`** [[Figma and UI development]]
 - **Day `23`** [[Javascript and JS DOM pt.2]]
+- **Day `24`** [[Introduction to React, components, state and props]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository
