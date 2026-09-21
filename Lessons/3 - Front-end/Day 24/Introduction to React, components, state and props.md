@@ -1,13 +1,8 @@
 # Introduction to React, components, state and props
 
 ## LC
-### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
-[Video link]()
-
 ### Repository
+https://github.com/WOWS-Inc/react-intro.git
 
 ## Lesson
 [[1. React - Intro.pdf|React - Intro]]
