@@ -127,3 +127,9 @@
 	path = Repository/Day 24/Theory/1 - React Immutable State
 	url = https://github.com/boolean-uk/react-immutable-state.git
 	branch = main
+[submodule "Repository/Day 25/Theory/1 - Form Practice"]
+	path = Repository/Day 25/Theory/1 - Form Practice
+	url = https://github.com/boolean-uk/react-forms-practice.git
+[submodule "Repository/Day 25/Ex/1 - React Survey"]
+	path = Repository/Day 25/Ex/1 - React Survey
+	url = https://github.com/boolean-uk/react-survey.git
