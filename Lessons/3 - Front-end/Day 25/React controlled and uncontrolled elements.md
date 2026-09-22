@@ -1,13 +1,8 @@
 # React controlled and uncontrolled elements
 
 ## LC
-### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
-[Video link]()
-
 ### Repository
+https://github.com/WOWS-Inc/react-controlled-form.git
 
 ## Lesson
 [[1. Events and Forms.pdf|Events and Forms]]
