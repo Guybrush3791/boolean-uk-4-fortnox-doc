@@ -133,3 +133,6 @@
 [submodule "Repository/Day 25/Ex/1 - React Survey"]
 	path = Repository/Day 25/Ex/1 - React Survey
 	url = https://github.com/boolean-uk/react-survey.git
+[submodule "Repository/Day 26/Ex/1 - React Effect for Fetch"]
+	path = Repository/Day 26/Ex/1 - React Effect for Fetch
+	url = https://github.com/boolean-uk/react-effect-for-fetch.git
