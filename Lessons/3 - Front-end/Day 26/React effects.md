@@ -1,13 +1,8 @@
 # React effects
 
 ## LC
-### Video
-> [!note]- Video
-> <div class="iframe-container"> <iframe src="" frameborder="0" allowfullscreen></iframe> </div>
-
-[Video link]()
-
 ### Repository
+https://github.com/WOWS-Inc/spring-react-todo-manager.git
 
 ## Lesson
 [[1 - Prerequisites|Prerequisites]]
