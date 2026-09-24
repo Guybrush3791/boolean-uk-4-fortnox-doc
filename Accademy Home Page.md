@@ -64,6 +64,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `25`** [[React controlled and uncontrolled elements]]
 - **Day `26`** [[React effects]]
 - **Day `27`** [[React routing]]
+- **Day `28`** [[React context API]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository
