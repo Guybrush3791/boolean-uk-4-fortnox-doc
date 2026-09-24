@@ -136,3 +136,7 @@
 [submodule "Repository/Day 26/Ex/1 - React Effect for Fetch"]
 	path = Repository/Day 26/Ex/1 - React Effect for Fetch
 	url = https://github.com/boolean-uk/react-effect-for-fetch.git
+[submodule "Repository/Day 27/Ex/1 - Hired Router"]
+	path = Repository/Day 27/Ex/1 - Hired Router
+	url = https://github.com/boolean-uk/react-hire-router-exemplar
+	branch = main

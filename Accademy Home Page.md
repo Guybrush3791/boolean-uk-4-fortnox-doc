@@ -63,6 +63,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `24`** [[Introduction to React, components, state and props]]
 - **Day `25`** [[React controlled and uncontrolled elements]]
 - **Day `26`** [[React effects]]
+- **Day `27`** [[React routing]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository
