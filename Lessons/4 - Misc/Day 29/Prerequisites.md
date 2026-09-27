@@ -1,6 +1,6 @@
 # Prerequisites
 
-Prepare the shared development environment before building the example application or its integration test. This setup provides Java, Spring Boot, PostgreSQL and the generated Gradle test dependencies used throughout the lesson.
+Prepare the shared development environment before building the example application or its integration test. This setup provides Java, Spring Boot and PostgreSQL.
 
 # 1. Prepare the development environment
 
@@ -101,49 +101,6 @@ devbox shell
 ```
 
 Re-entering the shell matters because `DEVBOX_PROJECT_ROOT` must point at the generated Spring Boot project rather than the temporary parent folder.
-
-The generated `build.gradle` contains both application and test dependencies:
-
-```gradle file:build.gradle
-plugins {
-    id 'java'
-    id 'org.springframework.boot' version '4.1.1'
-    id 'io.spring.dependency-management' version '1.1.7'
-}
-
-group = 'com.booleanuk'
-version = '0.0.1-SNAPSHOT'
-
-java {
-    toolchain {
-        languageVersion = JavaLanguageVersion.of(21)
-    }
-}
-
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
-    implementation 'org.springframework.boot:spring-boot-starter-webmvc'
-    compileOnly 'org.projectlombok:lombok'
-    developmentOnly 'org.springframework.boot:spring-boot-devtools'
-    runtimeOnly 'org.postgresql:postgresql'
-    annotationProcessor 'org.projectlombok:lombok'
-    testImplementation 'org.springframework.boot:spring-boot-starter-data-jpa-test'
-    testImplementation 'org.springframework.boot:spring-boot-starter-webmvc-test'
-    testCompileOnly 'org.projectlombok:lombok'
-    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
-    testAnnotationProcessor 'org.projectlombok:lombok'
-}
-
-tasks.named('test') {
-    useJUnitPlatform()
-}
-```
-
-Spring Boot 4 adds test modules that match the selected application starters. `spring-boot-starter-webmvc-test` provides the MVC testing support used by `MockMvc`, while `spring-boot-starter-data-jpa-test` provides testing support for the JPA path. The JUnit Platform launcher allows Gradle to discover and run the tests.
 
 # 3. Connect the application to PostgreSQL
 
