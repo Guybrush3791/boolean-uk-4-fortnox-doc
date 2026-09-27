@@ -66,6 +66,9 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 - **Day `27`** [[React routing]]
 - **Day `28`** [[React context API]]
 
+### Misc
+- **Day `29`** [[Integration testing]]
+
 ## 🔗 Additional link
 You can find this documentation at the following repository
 https://github.com/Guybrush3791/boolean-uk-4-fortnox-doc.git
