@@ -69,6 +69,7 @@ git stash && git pull --recurse-submodules && git submodule update --init --recu
 ### Misc
 - **Day `29`** [[Integration testing]]
 - **Day `30`** [[GenAI assisted programming]]
+- Day `31` [[Agile methodologies and Scrum + Challenge]]
 
 ## 🔗 Additional link
 You can find this documentation at the following repository
