@@ -47,4 +47,4 @@ Because `complete` is private, we could later swap the `boolean` for an enum
 
 ## Related
 
-- [[README]] — the exercise brief.
+- [[Intro]] — the exercise brief.

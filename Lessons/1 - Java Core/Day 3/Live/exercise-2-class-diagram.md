@@ -1,6 +1,6 @@
 # Exercise 2 — Remote Controlled Car
 
-Class diagram designed **before** writing any code, from the user stories in [[README]].
+Class diagram designed **before** writing any code, from the user stories in [[Intro]].
 
 ## User stories → design decisions
 
